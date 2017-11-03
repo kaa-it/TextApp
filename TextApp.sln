@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TextApp", "TextApp.vcxproj", "{99AA6168-8B68-4B44-AC70-B766A71C25EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99AA6168-8B68-4B44-AC70-B766A71C25EF}.Debug|x64.ActiveCfg = Debug|x64
+		{99AA6168-8B68-4B44-AC70-B766A71C25EF}.Debug|x64.Build.0 = Debug|x64
+		{99AA6168-8B68-4B44-AC70-B766A71C25EF}.Debug|x86.ActiveCfg = Debug|Win32
+		{99AA6168-8B68-4B44-AC70-B766A71C25EF}.Debug|x86.Build.0 = Debug|Win32
+		{99AA6168-8B68-4B44-AC70-B766A71C25EF}.Release|x64.ActiveCfg = Release|x64
+		{99AA6168-8B68-4B44-AC70-B766A71C25EF}.Release|x64.Build.0 = Release|x64
+		{99AA6168-8B68-4B44-AC70-B766A71C25EF}.Release|x86.ActiveCfg = Release|Win32
+		{99AA6168-8B68-4B44-AC70-B766A71C25EF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76A1574F-80DF-47D2-B95D-CF647005AA95}
+	EndGlobalSection
+EndGlobal
